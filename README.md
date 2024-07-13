@@ -1,2 +1,2 @@
 # StudySphere
-#Resposive Learning Platform.
+#Responsive Learning Platform.
